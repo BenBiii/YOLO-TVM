@@ -1,0 +1,10 @@
+*/__pycache__
+output*/**
+*.xml
+*.jpg
+*.pt
+*.weights
+*.txt
+*.png
+*copy*
+*etc*
